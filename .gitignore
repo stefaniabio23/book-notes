@@ -1,0 +1,16 @@
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
+# Source files (PDFs, epubs) are kept locally but not committed.
+# `sources` is a symlink to ~/Desktop/Sources/books/. Both pattern forms
+# are listed so the symlink itself never gets tracked — git treats a
+# symlink-to-a-directory as a special file, so `sources/` (with slash)
+# alone wouldn't match it.
+sources
+sources/
+
+# Project-local Claude Code skill specs. Kept local — these are my own
+# scaffolding, not part of the published notes format.
+.claude/

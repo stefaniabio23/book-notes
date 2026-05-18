@@ -1,0 +1,12 @@
+# Meta files in this directory that are NOT book chapter notes.
+# All book-notes skills (book-frontmatter, concepts, bibliography, quotes)
+# read this list to know which files to skip when scanning the corpus.
+# One filename per line. Lines starting with # are ignored.
+# Files starting with . are always excluded regardless of this list.
+
+README.md
+TEMPLATE.md
+BIBLIOGRAPHY.md
+QUOTES.md
+QUOTES_MANUAL.md
+CONCEPTS.md

@@ -20,6 +20,10 @@ Chapter notes for every book read. Parker-style atomic bullets by default; flowi
 - Cite paragraphs as `[¶42]` or pages as `[p.105]` only when the source has stable numbering. Omit for epubs.
 - Frontmatter required on every book file: run `/book-frontmatter` to seed/repair.
 
+## Extraction spec
+
+See `TEMPLATE.md` for the v2.0 extraction spec (12 rules, output format, Metadata-section convention). Notes are atom-seeding material, not summaries: preserve mechanisms, tensions, surprising claims, and visible assumptions; ignore filler.
+
 ## Meta-file convention
 
 All four book-notes skills (`/book-frontmatter`, `/concepts`, `/bibliography`, `/quotes`) skip files listed in `.book-meta-files` plus anything starting with `.`. If a new meta file is added (e.g. a `STYLE_GUIDE.md`), append its name to that file — do not edit each skill spec.

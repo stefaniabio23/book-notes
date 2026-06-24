@@ -16,6 +16,7 @@ The whole idea — the structure, the conventions, even the repo name — is [Mi
 | [Atlas Shrugged](atlas-shrugged.md) | Ayn Rand | 2026 | [link](https://stephanierebecca.com/books/atlas-shrugged/) |
 | [Human Physiology: The Basis of Medicine](human-physiology.md) | Pocock and Richards | 2026 | — |
 | [Manias, Panics, and Crashes](manias-panics-and-crashes.md) | Kindleberger and Aliber | 2023 | [link](https://stephanierebecca.com/books/manias-panics-and-crashes/) |
+| [Memories, Dreams, Reflections](memories-dreams-reflections.md) | C. G. Jung | 2026 | [link](https://stephanierebecca.com/books/memories-dreams-reflections/) |
 | [The Origins of Efficiency](the-origins-of-efficiency.md) | Brian Potter | 2026 | — |
 | [The Psychology of Money](the-psychology-of-money.md) | Morgan Housel | 2026 | — |
 
